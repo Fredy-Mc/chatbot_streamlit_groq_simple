@@ -17,7 +17,7 @@ Voici les outils principaux utilisés pour cette application :
 ---
 
 ## **📋 Ce que fait l'application**
-- Discuter avec un chatbot
+- Discuter avec une sélection de modèles dans un chatbot
 
 ---
 
