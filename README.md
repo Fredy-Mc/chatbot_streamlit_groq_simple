@@ -2,7 +2,7 @@
 
 ---
 
-# **Mon Application Streamlit+Groq+SQLAlchemy - Ce projet est une intégration du l'article de [Bryan Antoine](https://medium.com/@b.antoine.se/building-a-custom-chatbot-a-streamlit-guide-to-ai-conversations-4ef524f0ea3f) sur Medium 🚀**
+# **Mon Application Streamlit, Groq et SQLAlchemy 🚀**
 
 Cette application est une adaptation du l'article de [Bryan Antoine](https://medium.com/@b.antoine.se/building-a-custom-chatbot-a-streamlit-guide-to-ai-conversations-4ef524f0ea3f) sur Medium. Je l'utilise et le modifie à ma convenance à des fins de recherches et d'auto-formation.
 
